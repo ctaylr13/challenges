@@ -1,5 +1,3 @@
-# workLog
-React Work Log Single Page Application
 To Run: 
 Clone repository
 cd 'my-app'
